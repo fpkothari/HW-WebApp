@@ -1,0 +1,56 @@
+@import url(https://fonts.googleapis.com/css?family=Abel);
+
+h1 {
+ font-family: 'Abel', sans-serif;
+ font-size: 36px;
+ color:#008ECC;
+}
+h2 {
+ font-family: 'Abel', sans-serif;
+ font-size: 22px;
+ color:#008ECC;
+}
+h3 {
+ font-family: 'Abel', sans-serif;
+ font-size: 18px;
+ color:green;
+}
+
+h4 {
+ font-family: 'Abel', sans-serif;
+ font-size: 16px;
+ color:red;
+}
+	
+label {
+	font-family: 'Abel', sans-serif;
+	text-align:left;
+}
+
+form {
+	width: 350px;
+	display: table-cell;
+    vertical-align: middle;
+    height: 50px;
+}
+	
+input {
+  float: right;
+  clear: both;
+}
+
+table, th, td {
+	font-family: 'Abel', sans-serif;
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+th, td {
+	font-family: 'Abel', sans-serif;
+    padding: 5px;
+    text-align: left;    
+}
+tr {
+	font-family: 'Abel', sans-serif;
+	color:#084B8A
+}
+
